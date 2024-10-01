@@ -38,7 +38,7 @@ function addStudent(students, student) {
 
     return students;
 }
-const student = { name: "Jim", age: 19, score: 75 };
+const student = { name: "Rim", age: 19, score: 75 };
 
 addStudent(students, student);
 
